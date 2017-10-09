@@ -1,0 +1,11 @@
+.large-font-size {
+  font-size: 100% !important;
+}
+
+.todo-list {
+  /* max-width: 350px !important; */
+}
+
+ul {
+  list-style: none;
+}

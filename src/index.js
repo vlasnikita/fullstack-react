@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Product from './App';
+import 'bootstrap/dist/css/bootstrap.css';
+import TodoApp from './TodoApp';
 
-ReactDOM.render(<Product />, document.getElementById('root'));
+ReactDOM.render(<TodoApp />, document.getElementById('root'));
